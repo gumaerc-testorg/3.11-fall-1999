@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding mechanics of materials.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-11-mechanics-of-materials-fall-1999/4daf7e5009d952d14c17d5ffb213e6a2_MIT3_11F99_edgedn.pdf
+file: /media/courses/3-11-mechanics-of-materials-fall-1999/4daf7e5009d952d14c17d5ffb213e6a2_MIT3_11F99_edgedn.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: "Edge Dislocation - Numerical Simulation \u2013 3.11 Fall 1999"
 uid: 4daf7e50-09d9-52d1-4c17-d5ffb213e6a2

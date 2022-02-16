@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding mechanics of materials.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-11-mechanics-of-materials-fall-1999/83fad907d4578cc077ffba6622348ded_MIT3_11F99_galerkin.pdf
+file: /media/courses/3-11-mechanics-of-materials-fall-1999/83fad907d4578cc077ffba6622348ded_MIT3_11F99_galerkin.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: "Galerkin Weighted Residual Method \u2013 3.11 Fall 1999"
 uid: 83fad907-d457-8cc0-77ff-ba6622348ded

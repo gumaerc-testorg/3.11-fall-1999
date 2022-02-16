@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: aefeca5b-086f-f48c-b236-1694fcc64bf2
 title: Code for Laminated Plate Calculations
 uid: 95fef8c7-dc15-0264-f2b2-32acf6452c0f

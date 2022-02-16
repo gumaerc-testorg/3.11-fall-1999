@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding mechanics of materials.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-11-mechanics-of-materials-fall-1999/0d670d6da74323e2d82562b0c1289635_MIT3_11F99_trans.pdf
+file: /media/courses/3-11-mechanics-of-materials-fall-1999/0d670d6da74323e2d82562b0c1289635_MIT3_11F99_trans.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Modules
+parent_type: CourseSection
 resourcetype: Document
 title: "Tensor Transformations \u2013 3.11 Fall 1999"
 uid: 0d670d6d-a743-23e2-d825-62b0c1289635

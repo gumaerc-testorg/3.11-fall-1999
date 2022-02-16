@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Modules
 uid: 3c4ff79d-3109-c1dd-4958-feec54686a01
 ---

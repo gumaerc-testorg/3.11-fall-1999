@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding mechanics of materials.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-11-mechanics-of-materials-fall-1999/082fcd712adffa589a670f9f8dfdd49a_MIT3_11F99_pv.pdf
+file: /media/courses/3-11-mechanics-of-materials-fall-1999/082fcd712adffa589a670f9f8dfdd49a_MIT3_11F99_pv.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Modules
+parent_type: CourseSection
 resourcetype: Document
 title: "Pressure Vessels \u2013 3.11 Fall 1999"
 uid: 082fcd71-2adf-fa58-9a67-0f9f8dfdd49a
