@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modules
 parent_type: CourseSection
+parent_uid: 3c4ff79d-3109-c1dd-4958-feec54686a01
 resourcetype: Document
 title: "Shear and Bending Moment Diagrams \u2013 3.11 Fall 1999"
 uid: b8e832b3-c8bf-3c17-00c2-6425a4baddb1

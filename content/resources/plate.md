@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: aefeca5b-086f-f48c-b236-1694fcc64bf2
 resourcetype: Other
 title: plate.exe
 uid: 022f196e-1d7b-501a-2e98-53c238013b70

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 resourcetype: Document
 title: "Polydimethyl Siloxane Analysis \u2013 3.11 Fall 1999"
 uid: f92d9f37-a36f-d70d-c4b4-ceb2575a5983

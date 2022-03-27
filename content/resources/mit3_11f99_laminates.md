@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modules
 parent_type: CourseSection
+parent_uid: 3c4ff79d-3109-c1dd-4958-feec54686a01
 resourcetype: Document
 title: "Laminated Composite Plates \u2013 3.11 Fall 1999"
 uid: f193c908-ec10-d95c-0bc6-7c904b65397a

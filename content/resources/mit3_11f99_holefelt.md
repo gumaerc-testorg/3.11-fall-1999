@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 resourcetype: Document
 title: "FElt Solution for Circular Hole \u2013 3.11 Fall 1999"
 uid: 800e3e21-05f4-8487-b808-0d6b8b6f01ff

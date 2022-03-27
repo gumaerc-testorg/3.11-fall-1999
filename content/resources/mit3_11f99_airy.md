@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modules
 parent_type: CourseSection
+parent_uid: 3c4ff79d-3109-c1dd-4958-feec54686a01
 resourcetype: Document
 title: "Closed-Form Solutions \u2013 3.11 Fall 1999"
 uid: 2ed67692-2db7-5076-6161-cdd004b2270a

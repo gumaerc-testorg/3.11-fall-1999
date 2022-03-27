@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modules
 parent_type: CourseSection
+parent_uid: 3c4ff79d-3109-c1dd-4958-feec54686a01
 resourcetype: Document
 title: "Pressure Vessels \u2013 3.11 Fall 1999"
 uid: 082fcd71-2adf-fa58-9a67-0f9f8dfdd49a

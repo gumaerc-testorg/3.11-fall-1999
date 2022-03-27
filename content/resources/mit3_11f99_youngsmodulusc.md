@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 resourcetype: Document
 title: "Periodic Table/Young's Modulus \u2013 3.11 Fall 1999"
 uid: 8bb27e8a-7d6f-82f1-e2db-f17e617d048c

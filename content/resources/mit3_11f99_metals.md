@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 resourcetype: Document
 title: "Structural Metal Alloys \u2013 3.11 Fall 1999"
 uid: 40eb274d-ef4e-f1a1-e077-03c2be9d35b6

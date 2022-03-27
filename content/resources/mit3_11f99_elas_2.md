@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modules
 parent_type: CourseSection
+parent_uid: 3c4ff79d-3109-c1dd-4958-feec54686a01
 resourcetype: Document
 title: "Atomistics of Elasticity \u2013 3.11 Fall 1999"
 uid: 47b8bb07-5c94-7c20-da6f-30ac2fbb0719

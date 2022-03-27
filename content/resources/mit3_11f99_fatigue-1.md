@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modules
 parent_type: CourseSection
+parent_uid: 3c4ff79d-3109-c1dd-4958-feec54686a01
 resourcetype: Document
 title: "Fatigue \u2013 3.11 Fall 1999"
 uid: f678e010-1718-6c53-d458-45ad93c07938

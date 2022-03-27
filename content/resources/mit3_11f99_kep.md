@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 resourcetype: Document
 title: "Anisotropic Compliance Relations \u2013 3.11 Fall 1999"
 uid: 939df5ae-e10d-f7fc-39ae-3cad868dc4ce

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modules
 parent_type: CourseSection
+parent_uid: 3c4ff79d-3109-c1dd-4958-feec54686a01
 resourcetype: Document
 title: "Tensor Transformations \u2013 3.11 Fall 1999"
 uid: 0d670d6d-a743-23e2-d825-62b0c1289635

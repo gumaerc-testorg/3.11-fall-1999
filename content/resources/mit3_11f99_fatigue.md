@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 resourcetype: Document
 title: "Fatigue Fracture Surfaces \u2013 3.11 Fall 1999"
 uid: 772f828a-6191-9c76-8260-8871e47a0ca2

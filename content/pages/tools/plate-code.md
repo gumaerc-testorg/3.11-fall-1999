@@ -17,6 +17,7 @@ The computational scheme for laminated plate calculations outlines in Module 15 
 Fortran Source
 --------------
 
+```
 c     plate - a prompt-driven routine for laminated plate calculations
 dimension S(3,3),Sbar(3,3),Qbar(3,3),E(6,7),kwa(6),
 \*          T(3,3),Tinv(3,3),R(3,3),Rinv(3,3),Et(6,6),
@@ -403,3 +404,5 @@ return
 idsol = 2
 360  return
 end
+
+```

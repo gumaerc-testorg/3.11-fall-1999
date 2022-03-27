@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 resourcetype: Document
 title: "Modern Materials Science and Engineering \u2013 3.11 Fall 1999"
 uid: 458832e6-2878-fa70-38bd-e213d35b359d
