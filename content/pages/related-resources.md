@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Internet Links. Slides
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -37,7 +38,7 @@ SLIDES
 Modern Materials Science and Engineering
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_tetra))
+({{% resource_link 458832e6-2878-fa70-38bd-e213d35b359d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +47,7 @@ Modern Materials Science and Engineering
 Tungsten - Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_tungsten))
+({{% resource_link c36a75d2-4530-428f-d0af-c1ef98306d7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +56,7 @@ Tungsten - Theory
 Using Maple to Plot Singularity Functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_sfnplot))
+({{% resource_link 10d3b284-25f8-b0a3-638b-94d130b3c994 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +65,7 @@ Using Maple to Plot Singularity Functions
 Edge Dislocation - Numerical Simulation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_edgedn))
+({{% resource_link 4daf7e50-09d9-52d1-4c17-d5ffb213e6a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +74,7 @@ Edge Dislocation - Numerical Simulation
 Helicopter Rotor Blades
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_blades))
+({{% resource_link ea5ed878-f419-1b8c-789f-464fe3fa2f99 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +83,7 @@ Helicopter Rotor Blades
 Silicate Glass
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_glass))
+({{% resource_link de44d6b7-1ef3-68ec-e8af-e2018a80777f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ Silicate Glass
 Maple Solution for Principal Stress in 4-Point Bending
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_ex47))
+({{% resource_link 947e2f6a-b7cd-9831-83da-882acd6d06b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +101,7 @@ Maple Solution for Principal Stress in 4-Point Bending
 Edge Dislocation - Solution from Stress Function
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_edgeairy))
+({{% resource_link 635c3b82-fe1f-2111-9b6c-e25ff4bcfeaf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ Edge Dislocation - Solution from Stress Function
 Form vs. Function in Design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_design))
+({{% resource_link 172e1f20-ee35-b653-6dde-8b728753b09c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ Zirconium Tungstate
 Maple Solution for Statically Indeterminate Beam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_ex49))
+({{% resource_link b3043184-1ce6-8703-02a8-b467635b8801 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +137,7 @@ Maple Solution for Statically Indeterminate Beam
 Iron-carbon Phase Diagram
 {{< tdclose >}}
 {{< tdopen >}}
-([GIF]({{< baseurl >}}/resources/fe_c))
+({{% resource_link dd4ab2a2-a8ba-984f-6014-12cf02958f01 "GIF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ Iron-carbon Phase Diagram
 Flywheel Design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_flywheel))
+({{% resource_link 06d12b61-df5c-9f7b-5e17-4dd1e9afe728 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +155,7 @@ Flywheel Design
 Compressive Force in Heated Tapered Rod
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_p113))
+({{% resource_link dfe808be-c737-132e-822c-ff12563bec61 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +164,7 @@ Compressive Force in Heated Tapered Rod
 Foamcore Panel
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_foamcore))
+({{% resource_link 417a85c7-749a-52cd-bf76-b8c227cb57b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +173,7 @@ Foamcore Panel
 Steel Microstructures
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_steel))
+({{% resource_link 553143e7-9f49-593d-7161-e4e700beafcd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +191,7 @@ Strength vs. Density - Ashby Plot
 Polydimethyl Siloxane Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_pdmsslides))
+({{% resource_link f92d9f37-a36f-d70d-c4b4-ceb2575a5983 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +200,7 @@ Polydimethyl Siloxane Analysis
 Stresses Around a Circular Hole
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_kirsch))
+({{% resource_link 809bd2e5-8155-f51d-7227-172d518b8b8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +209,7 @@ Stresses Around a Circular Hole
 Statistics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_stat))
+({{% resource_link 4815e774-597b-553a-7f6d-9d439a6ab962 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +218,7 @@ Statistics
 Efficiency of Materials
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_efficiency))
+({{% resource_link f7f6b5ee-3cbf-d8c2-bd19-23041bc4d137 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +227,7 @@ Efficiency of Materials
 Tensile Testing
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_instron))
+({{% resource_link a88893c8-f6d2-4352-6cc9-226e480aed1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +236,7 @@ Tensile Testing
 Cathedrals and Photoelasticity
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_cathedral))
+({{% resource_link 5bbf5ff2-e417-7731-d4dc-b9bf28f23928 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +245,7 @@ Cathedrals and Photoelasticity
 Creep-rupture Lifetimes
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_creep))
+({{% resource_link 03f22838-9f15-7ea7-a340-95d54c8d64bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +254,7 @@ Creep-rupture Lifetimes
 Elongation of Constant-stress Column (Maple Solution)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_110e))
+({{% resource_link 74f7fc28-9fda-310e-0f79-7d14ca375aac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +263,7 @@ Elongation of Constant-stress Column (Maple Solution)
 Truss Matrix Assembly
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_212))
+({{% resource_link a07dc94b-b266-ba35-a9fc-76aa44dc6fee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +272,7 @@ Truss Matrix Assembly
 FElt Solution for Circular Hole
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_holefelt))
+({{% resource_link 800e3e21-05f4-8487-b808-0d6b8b6f01ff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +281,7 @@ FElt Solution for Circular Hole
 Titenic Rivert Failure
 {{< tdclose >}}
 {{< tdopen >}}
-([GIF]({{< baseurl >}}/resources/titanic))
+({{% resource_link 799341cd-138e-4c2f-114d-a576a4d6cd50 "GIF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -289,7 +290,7 @@ Titenic Rivert Failure
 Periodic Table/Melting Points
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_pt))
+({{% resource_link a3d1aeca-2dd5-2d71-fef2-06e7a1bd98d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +299,7 @@ Periodic Table/Melting Points
 Pressure Vessel Creep
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_ex211))
+({{% resource_link d102bbb5-5b23-4607-a715-401939ffb1b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +308,7 @@ Pressure Vessel Creep
 Galerkin Weighted Residual Method
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_galerkin))
+({{% resource_link 83fad907-d457-8cc0-77ff-ba6622348ded "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -316,7 +317,7 @@ Galerkin Weighted Residual Method
 S. S. Schenectady Failure
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_ship))
+({{% resource_link 680420da-f203-842d-d583-a0c9594422f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -325,7 +326,7 @@ S. S. Schenectady Failure
 Periodic Table/Young's Modulus
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_youngsmodulusc))
+({{% resource_link 8bb27e8a-7d6f-82f1-e2db-f17e617d048c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +335,7 @@ Periodic Table/Young's Modulus
 Anisotropic Compliance Relations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_kep))
+({{% resource_link 939df5ae-e10d-f7fc-39ae-3cad868dc4ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +344,7 @@ Anisotropic Compliance Relations
 Structural Metal Alloys
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_11f99_metals))
+({{% resource_link 40eb274d-ef4e-f1a1-e077-03c2be9d35b6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -352,7 +353,7 @@ Structural Metal Alloys
 Fatigue Fracture Surfaces
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_fatigue))
+({{% resource_link 772f828a-6191-9c76-8260-8871e47a0ca2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -12,12 +13,11 @@ uid: 95fef8c7-dc15-0264-f2b2-32acf6452c0f
 
 The .exe file found in this section is an executable program and can be run from your computer after download is complete.
 
-The computational scheme for laminated plate calculations outlines in Module 15 has been coded in Fortran as listed below. A [PC-executable version]({{< baseurl >}}/resources/plate) is also available.
+The computational scheme for laminated plate calculations outlines in Module 15 has been coded in Fortran as listed below. A {{% resource_link 022f196e-1d7b-501a-2e98-53c238013b70 "PC-executable version" %}} is also available.
 
 Fortran Source
 --------------
 
-```
 c     plate - a prompt-driven routine for laminated plate calculations
 dimension S(3,3),Sbar(3,3),Qbar(3,3),E(6,7),kwa(6),
 \*          T(3,3),Tinv(3,3),R(3,3),Rinv(3,3),Et(6,6),
@@ -404,5 +404,3 @@ return
 idsol = 2
 360  return
 end
-
-```
