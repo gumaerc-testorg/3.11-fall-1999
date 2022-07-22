@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: aefeca5b-086f-f48c-b236-1694fcc64bf2
 ---
 
 Plate - Laminated Plates
 
-[Fortran Source Code]({{< baseurl >}}/pages/tools/plate-code) and [PC-executable]({{< baseurl >}}/resources/plate) files for laminated plate calculations.
+{{% resource_link 95fef8c7-dc15-0264-f2b2-32acf6452c0f "Fortran Source Code" %}} and {{% resource_link 022f196e-1d7b-501a-2e98-53c238013b70 "PC-executable" %}} files for laminated plate calculations.
 
 {{< anchor "converter" >}}{{< /anchor >}}Unit Converter
 -------------------------------------------------------

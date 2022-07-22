@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 0a4020cc-b21d-d5c7-c10f-9431b8354019
 ---
@@ -546,7 +549,7 @@ The Griffith Approach to Fracture Mechanics, Compliance Calibration
 7.3.1, 7.3.2
 {{< tdclose >}}
 {{< tdopen >}}
-7.9c (But Find Gc rather than K1)
+7.9c (But Find G{{< sub "c" >}} rather than K{{< sub "1" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

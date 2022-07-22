@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: aefeca5b-086f-f48c-b236-1694fcc64bf2
 title: Code for Laminated Plate Calculations
 uid: 95fef8c7-dc15-0264-f2b2-32acf6452c0f
@@ -8,7 +13,7 @@ uid: 95fef8c7-dc15-0264-f2b2-32acf6452c0f
 
 The .exe file found in this section is an executable program and can be run from your computer after download is complete.
 
-The computational scheme for laminated plate calculations outlines in Module 15 has been coded in Fortran as listed below. A [PC-executable version]({{< baseurl >}}/resources/plate) is also available.
+The computational scheme for laminated plate calculations outlines in Module 15 has been coded in Fortran as listed below. A {{% resource_link 022f196e-1d7b-501a-2e98-53c238013b70 "PC-executable version" %}} is also available.
 
 Fortran Source
 --------------
