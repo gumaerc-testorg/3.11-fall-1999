@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Related Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: titanic.gif
 uid: 799341cd-138e-4c2f-114d-a576a4d6cd50
 ---
 Informational graphic from the Washington Post.
-

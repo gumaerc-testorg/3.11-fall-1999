@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Related Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: fe_c.gif
 uid: dd4ab2a2-a8ba-984f-6014-12cf02958f01
 ---
 Plot of percent carbon v. temperature
-
