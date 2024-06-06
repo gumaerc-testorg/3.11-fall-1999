@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mechanics of materials.
 file: /courses/3-11-mechanics-of-materials-fall-1999/06d12b61df5c9f7b5e174dd1e9afe728_MIT3_11F99_flywheel.pdf
+file_size: 96519
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mechanics of materials.
 file: /courses/3-11-mechanics-of-materials-fall-1999/913c0305981479e7474e1a229f53d2d9_MIT3_11F99_yield.pdf
+file_size: 402414
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

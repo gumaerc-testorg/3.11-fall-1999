@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mechanics of materials.
 file: /courses/3-11-mechanics-of-materials-fall-1999/417a85c7749a52cdbf76b8c227cb57b1_MIT3_11F99_foamcore.pdf
+file_size: 122399
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
