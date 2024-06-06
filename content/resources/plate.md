@@ -4,6 +4,7 @@ description: '[Laminated plate calculations]
 
   PC-executable files for laminated plate calculations'
 file: /courses/3-11-mechanics-of-materials-fall-1999/022f196e1d7b501a2e9853c238013b70_plate.exe
+file_size: 192512
 file_type: application/x-ms-dos-executable
 learning_resource_types:
 - Tools
