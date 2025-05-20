@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Informational graphic from the Washington Post.
-file: /ol-ocw-studio-app/courses/3-11-mechanics-of-materials-fall-1999/799341cd138e4c2f114da576a4d6cd50_titanic.gif
+file: /courses/3-11-mechanics-of-materials-fall-1999/799341cd138e4c2f114da576a4d6cd50_titanic.gif
 file_size: 45248
 file_type: image/gif
 image_metadata:
