@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding mechanics of materials.
-file: /ol-ocw-studio-app/courses/3-11-mechanics-of-materials-fall-1999/bd73847b42e38d556be6c562dc0d28bc_MIT3_11F99_units.pdf
+file: /courses/3-11-mechanics-of-materials-fall-1999/bd73847b42e38d556be6c562dc0d28bc_MIT3_11F99_units.pdf
 file_size: 151137
 file_type: application/pdf
 learning_resource_types: []
