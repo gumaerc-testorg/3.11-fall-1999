@@ -44,10 +44,11 @@
   },
   "learning_resource_types": [
     "Simulations",
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets"
   ],
   "site_uid": "9fdd9735-a0e4-46f1-b7bd-b43a41fb9fc4",
   "site_short_id": "3.11-fall-1999",
+  "site_url_path": "courses/3-11-mechanics-of-materials-fall-1999",
   "title": "Course Metadata"
 }
