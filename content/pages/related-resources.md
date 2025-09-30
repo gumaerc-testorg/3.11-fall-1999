@@ -9,11 +9,11 @@ uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 ---
 ## Internet Links
 
-- [DMSE homepage](https://dmse.mit.edu/)
-- [MAPLE homepage](http://www.maplesoft.com/)
-- [MIT's MAPLE page](http://web.mit.edu/afs/athena.mit.edu/software/maple/www/home.html)
-- [Strain gages (MicroMeasurements)](http://www.vishay.com/company/brands/)
-- [Thermoelasticity](http://www.stressphotonics.com/) (Stress Photonics, Inc.)
+- {{% resource_link "4f62a391-c762-4414-9c64-ca6f1360aaac" "DMSE homepage" %}}
+- {{% resource_link "e2cfd23f-0f8c-4f1d-8e9e-536d2a8a49ae" "MAPLE homepage" %}}
+- {{% resource_link "d3e9f8aa-e53a-4110-9bda-d01ecd6a6411" "MIT's MAPLE page" %}}
+- {{% resource_link "fe669d75-8205-465f-b108-4f93db815a5e" "Strain gages (MicroMeasurements)" %}}
+- {{% resource_link "6465ed88-e2cd-468a-8342-482b5604da59" "Thermoelasticity" %}} (Stress Photonics, Inc.)
 
 ## Handouts
 
